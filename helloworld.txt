@@ -1,0 +1,3 @@
+Hello, world!
+Oi, turma! O que vocês estão achando o git?
+Modificação em 20260505_0900:00.
