@@ -1,0 +1,2 @@
+echo "Hello, world!"
+Minha comida favorita é um belo churrasco.
