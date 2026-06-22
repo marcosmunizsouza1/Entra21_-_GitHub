@@ -1,3 +1,6 @@
 Hello, world!
 Oi, turma! O que vocês estão achando o git?
+<<<<<<< HEAD
 Modificação em 20260505_0900:00.
+=======
+>>>>>>> fdee7f0f763bec6a6ebdbd9730eb4dd05a281d06
